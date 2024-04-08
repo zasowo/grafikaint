@@ -1,0 +1,330 @@
+﻿  /* CSS layout */
+body {
+	margin: 0;
+	padding: 0;
+	background-color:#F0EDCD;
+}
+
+a {
+	text-decoration:none;
+	color:#103E7A;
+}
+
+a:hover {
+	text-decoration: underline;
+	color:#3e679e;
+}
+
+div {
+	position:static;
+	border: none;
+	float:none;
+}
+
+#masthead {
+width:100%;
+height:160px;
+background-color:#CCC9AD;
+float:inherit;
+
+}
+
+#masthead h1 {
+	margin:0px;
+	display: inline-block;
+	height: 160px;
+	line-height: 160px;
+	vertical-align: middle;
+	text-align: center;
+}
+
+#top_nav {
+padding: 2px 2px 2px 2px;
+float:none;
+width:100%;
+height:27px;
+background-color:#CCC9AD;
+}
+
+#top_nav_box {
+padding: 2px;
+float:none;
+width:100%;
+height:23px;
+background-color:#F0EDCD;
+}
+
+
+#container {
+	float:none;
+	display:flex;
+	width: 100%;
+	background-color:#CCC9AD;
+}
+
+#left_col {
+	float:left;
+	margin:0px;
+	padding: 0px;
+	width: 10%;
+	background-color:#BFFAB6;
+}
+
+#right_col {
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	width: 10%;
+	background-color:#BFFAB6;
+}
+
+#page_content {
+	float:left;
+	margin:0px;
+	width: 80%;
+	min-height:500px;
+	background-color:#F0EDCD;
+	padding:10px;
+}
+
+#footer {
+	float:none;
+	padding: 2px;
+	width:100%;	
+	height:23px;
+	background-color:#D3D9DA;
+}
+
+.footer_box {
+padding: 2px;
+float:none;
+width:100%;
+height:23px;
+background-color:#F0EDCD;
+}
+
+
+.link_nav {
+float:left;
+padding:3px 2px 0px 2px;
+height: 20px;
+margin-left:5px;
+}
+
+.link {
+padding-left:10px;
+height:20px;
+margin-bottom:2px;
+background-color:#BFFAB6;
+
+}
+
+.link_selected {
+padding-left:8px;
+height:20px;
+margin-bottom:2px;
+background-color:#BFFAB6;
+font-size:1.2em;
+font-weight:600;
+
+}
+
+
+.sub_link {
+padding-left:20px;
+height:20px;
+font-size:0.9em;
+margin-bottom:2px;
+background-color:#BFFAB6;
+
+}
+
+.sub_sub_link {
+padding-left:30px;
+height:20px;
+font-size:0.8em;
+margin-bottom:2px;
+background-color:#BFFAB6;
+
+}
+
+
+.module_title {
+font-weight:bold;
+font-size:medium;
+padding-left:0px;
+height:20px;
+margin-left: 20px;
+margin-top: 15px;
+margin-bottom: 15px;
+background-color:#BFFAB6;
+
+}
+
+
+.link_foot {
+float:left;
+padding:0 5 0 5;
+height: 20px;
+margin-left:5px;
+}
+.path {
+	padding: 3px 3px 0px 1px;
+	width:200px;
+	height:20px;
+	float:left;
+	font-size:0.8em;
+}
+
+.paragrafzdj {
+	width: 640px;
+	height: 360px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+	
+}
+
+div.article {
+	
+}
+
+div.article_title {
+	font: italic normal 1.4em georgia, sans-serif;
+	padding-bottom: 4px;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+		
+	border-bottom-style: solid;
+	border-bottom-width: thin; 
+}
+
+div.article_summary {
+	padding: 8px;
+	color:#303032;	
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+}
+
+div.article_summary div {
+font: italic normal 1.2em georgia, sans-serif;
+color:#303032;	
+padding:  5px 10px 6px 15px;
+}
+
+div.article_content {
+	margin: 10px;
+	
+}
+
+#logofl {
+	height:100%;
+	float:left;
+}
+
+p.p1 {
+font: italic normal 1.1em georgia, sans-serif;
+color:#303032;	
+padding:  5px 10px 6px 15px;
+}
+
+p.p2 {
+font: normal 0.9em georgia, sans-serif;
+color:#303032;	
+padding:  5px 10px 6px 15px;	
+}
+
+p.p3 {
+	
+	
+}
+
+.module_title  {
+	background-color: rgb(132, 245, 114);
+	margin-right: 20px;
+	text-align: center;
+	border: 2px solid rgb(93, 192, 78);
+	border-radius: 5px;
+}
+
+.link, .link_selected, .sub_link, .sub_sub_link {
+	border-left: 2px solid rgb(93, 192, 78);
+}
+
+@keyframes hover1 {
+	0% {
+		transform: translateX(0);
+	}
+	100% {
+		transform: translateX(5px);
+	}
+}
+
+.link:hover, .link_selected:hover, .sub_link:hover, .sub_sub_link:hover {
+	animation: hover1 0.5s ease-out both;
+}
+
+.module_content {
+	padding: 5px;
+}
+
+.czysc{
+	clear:both;
+	width: 0px;
+	height:0px;	
+}
+
+@keyframes slide {
+
+    20% {
+        margin-left: 0px;
+    }
+ 
+    40% {
+        margin-left: calc(-1024px * 1);
+    }
+ 
+    60% {
+        margin-left: calc(-1024px * 2);
+    }
+ 
+    80% {
+        margin-left: calc(-1024px * 3);
+    }
+}
+
+@keyframes zd1 {
+	0% {
+		postion:fixed;
+		top:50%;
+		left:50%;
+		width:0%
+	}
+
+	100% {
+		position: fixed;
+		top:50%;
+		left:50%;
+		width: 50%;
+		translate: -50% -50%;
+	}
+}
+
+.anim1 {
+	position: fixed;
+	animation: zd1 1s ease-in-out both;
+}
+
+.albumzdj {
+	width: calc(20% - 15px);
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.paused {
+	animation-play-state: paused;
+}
+
+canvas {
+	border: 1px dotted red;
+}
