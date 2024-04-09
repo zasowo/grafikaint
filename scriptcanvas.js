@@ -27,7 +27,7 @@ function canvas2(){
     let ctx = canvas.getContext("2d");
 
     var lastend = 0;
-    var myTotal = 0; // Automatically calculated so don't touch
+    var myTotal = 0;
 
     const grad1=ctx.createLinearGradient(0,0, 300,0);
     grad1.addColorStop(0, "lightblue");
@@ -43,31 +43,29 @@ function canvas2(){
 
     const grad4=ctx.createLinearGradient(0,0, 300,0);
     grad4.addColorStop(0, "lightgray");
-    grad4.addColorStop(1, "darkgray");
+    grad4.addColorStop(1, "black");
     
-    
-    var myColor = ["red", "green", "blue", "yellow"]; // Colors of each slice
-    //var myColor = [grad1,grad2,grad3,grad4];
+    var Color = [grad1,grad2,grad3,grad4];
 
     for (var e = 0; e < data.length; e++) {
-    myTotal += data[e];
+        myTotal += data[e];
     }
 
     for (var i = 0; i < data.length; i++) {
-    ctx.fillStyle = myColor[i];
-    ctx.beginPath();
-    ctx.moveTo(canvas.width / 2, canvas.height / 2);
-    ctx.arc(
-        canvas.width / 2,  // x
-        canvas.height / 2, // y
-        canvas.height / 2, // radius
-        lastend,           // startingAngle (radians)
-        lastend + Math.PI * 2 * (data[i] / myTotal), // endingAngle (radians)
-        false // antiClockwise (boolean)
-    );
-    ctx.lineTo(canvas.width / 2, canvas.height / 2);
-    ctx.fill();
-    lastend += Math.PI * 2 * (data[i] / myTotal);
+        ctx.fillStyle = Color[i];
+        ctx.beginPath();
+        ctx.moveTo(canvas.width / 2, canvas.height / 2);
+        ctx.arc(
+            canvas.width / 2,  // x
+            canvas.height / 2, // y
+            canvas.height / 2, // radius
+            lastend,           // startingAngle (radians)
+            lastend + Math.PI * 2 * (data[i] / myTotal), // endingAngle (radians)
+            false // antiClockwise (boolean)
+        );
+        ctx.lineTo(canvas.width / 2, canvas.height / 2);
+        ctx.fill();
+        lastend += Math.PI * 2 * (data[i] / myTotal);
     }
 }
 
@@ -86,5 +84,8 @@ function canvas3(){
 }
 
 function canvas4(){
+    let canvas = document.getElementById("canvas3");
+    let ctx = canvas.getContext("2d");
 
+    
 }

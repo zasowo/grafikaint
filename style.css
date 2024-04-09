@@ -242,7 +242,7 @@ padding:  5px 10px 6px 15px;
 	border-left: 2px solid rgb(93, 192, 78);
 }
 
-@keyframes hover1 {
+@keyframes hover11 {
 	0% {
 		transform: translateX(0);
 	}
@@ -252,7 +252,7 @@ padding:  5px 10px 6px 15px;
 }
 
 .link:hover, .link_selected:hover, .sub_link:hover, .sub_sub_link:hover {
-	animation: hover1 0.5s ease-out both;
+	animation: hover11 0.5s ease-out both;
 }
 
 .module_content {
