@@ -84,8 +84,46 @@ function canvas3(){
 }
 
 function canvas4(){
-    let canvas = document.getElementById("canvas3");
-    let ctx = canvas.getContext("2d");
+    let canvas = document.getElementById("canvas4");
+    let context = canvas.getContext("2d");
 
-    
+    var koloZ = { x: canvas.width/2, y: canvas.height/2, r1:canvas.width/2 - 25, r2:canvas.height/2 - 75 };
+    var ile = 52; //liczba zębów
+    var r = koloZ.r1;
+    context.beginPath();
+    context.fillStyle = "blue";
+    context.strokeStyle = "black";
+    for (var i = 0; i < ile; i++) {
+        var alpha = ((Math.PI * 2) / ile) * (i); //aktualny kąt
+        if (i % 2 == 0) {
+        if (r == koloZ.r1)
+        r = koloZ.r2;
+        else
+        r = koloZ.r1;
+        }
+        var x = (r * Math.sin(alpha)) + koloZ.x;
+        var y = (r * Math.cos(alpha)) + koloZ.y;
+        if (i == 0)
+        context.moveTo(x, y);
+        else
+        context.lineTo(x, y);
+    }
+    context.fill();
+    context.stroke();
+    context.closePath();
+
+    context.globalCompositeOperation ="destination-out";
+    for (var i = 0; i < 5; i++){
+        context.beginPath();
+        var alpha = ((Math.PI * 2)/5) * (i); //aktualny kąt
+        var x = (r/2 * Math.sin(alpha)) + koloZ.x;
+        var y = (r/2 * Math.cos(alpha)) + koloZ.y;
+        context.strokeStyle = 'blue';
+        context.arc(x, y, r/8, 0, 2 * Math.PI);
+        context.fillStyle = 'green';
+        context.fill();
+        context.stroke();
+        context.closePath();
+    }
+
 }
