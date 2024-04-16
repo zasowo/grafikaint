@@ -3,6 +3,7 @@ function canvas(){
     canvas2();
     canvas3();
     canvas4();
+    canvas5();
 }
 
 function canvas1(){

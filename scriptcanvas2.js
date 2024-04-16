@@ -3,6 +3,7 @@ function canvas(){
     canvas2();
     canvas3();
     canvas4();
+    canvas5();
 }
 
 function canvas1(){
@@ -69,7 +70,7 @@ function canvas2(){
     }
 
     var x = -1000;
-    var c = 0;
+    var c = 5;
     var krok = 0.1;
     context.beginPath();
     context.strokeStyle = "red";
@@ -96,18 +97,18 @@ function canvas2(){
     context.translate(canvas.width/2, canvas.height/2);
     
     //context.scale(10,10);
-    var skala = 10;
+    var skala = 40;
 
     context.beginPath();
     context.lineWidth = 1;
     context.strokeStyle = "black";
-    var y = fn1(x,c)*skala;
+    var y = fn1(x,c/skala)*skala;
     var N = 20000;
     context.moveTo(x,y);
     for (var i = 0; i < N; i++){
         context.lineTo(skala*x,y);
         x+=krok;
-        y=fn1(x,c)*skala;
+        y=fn1(x,c/skala)*skala;
     }
 
     context.stroke();
@@ -116,10 +117,73 @@ function canvas2(){
 
 function canvas3(){
     let canvas = document.getElementById("canvas3");
-    let ctx = canvas.getContext("2d");
+    let context = canvas.getContext("2d");
+    //Deklaracja zmiennych podlegających zmianie podczas całej animacji
+    var last_time, stop, linear_speed, varX, varY, initX, initY, r;
+    //Inicjalizacja stanu początkowego animacji
+    function InitAnimation(){
+        stop = false;
+        var date = new Date();
+        last_time = date.getTime();
+        //Inicjalizacja zmiennych opisujących animację
+        linear_speed = 100;
+        stop = 0; 
+        r=10;
+        varX = Math.floor(Math.random() * (100)) + 2*r; varY = Math.floor(Math.random() * (100))+2*r; 
+        initX = varX; initY = varY;
+        flX = 1; flY = 1; 
+        //Uruchomienie animacji
+        window.requestAnimationFrame(drawAnimation);
+    }
+    //właściwa funkcja rysująca kolejne klatki animacji
+    function drawAnimation(){
+        // 2. czyszczenie płótna
+        context.clearRect(0,0,500,500);
+        // 3. wyznaczenie upływu czasu od ostatniej klatki
+        var date = new Date();
+        var time_interval = date.getTime() - last_time;
+        last_time = date.getTime();
+        
+        // 3.1. Wyznaczenie nowego stanu rysowanych obiektów
+        var distance = linear_speed * time_interval / 1000;
+        console.log(distance);
+        // 4. Rysowanie obiektów
+        // 4.1. zapamiętanie stanu płótna
+        context.save();
+        context.beginPath();
+        // 4.2 Rysowanie obiektów
+        context.arc(initX, initY, r, 0, 2 * Math.PI);
+        context.fillStyle = "red";
+        context.fill();
+        context.closePath();
+        context.restore();
+        
+        varX += distance*flX; varY += distance*flY;
+        if(varX>canvas.width-r){
+            flX = -1;
+        }
+        if(varY>canvas.height-r){
+            flY = -1;
+        }
+        if(varX<r){
+            flX = 1;
+        }
+        if(varY<r){
+            flY = 1;
+        }
+        context.translate(distance*flX,distance*flY);
+        // 5. ponowne wywołanie pętli animacji
+        if (!stop) window.requestAnimationFrame(drawAnimation);
+    }
+    InitAnimation();
 }
 
 function canvas4(){
     let canvas = document.getElementById("canvas4");
+    let ctx = canvas.getContext("2d");
+}
+
+function canvas5(){
+    let canvas = document.getElementById("canvas5");
     let ctx = canvas.getContext("2d");
 }
