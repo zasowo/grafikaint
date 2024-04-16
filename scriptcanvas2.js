@@ -331,22 +331,34 @@ function canvas5(){
         if(dane_wykresu.type = "wykres_slupkowy"){
             context.font = "20px Arial";
             context.fillText(dane_wykresu.tytul,120,20);
+            context.font = "14px Arial";
+            //linie
+            for(var i = 0; i <=5; i++){
+                context.lineWidth = 1;
+                context.beginPath();
+                context.moveTo(0,(canvas.height-30)-((canvas.height-30)*i/4)*0.9);
+                context.lineTo(canvas.width,(canvas.height-30)-((canvas.height-30)*i/4)*0.9);
+                context.stroke();
+                context.fillText(maxvalue*(i/4),0,(canvas.height-30)-((canvas.height-30)*i/4)*0.9 - 2);
+            }
             context.font = "18px Arial";
             for(var i = 0; i<dane_wykresu.serie[0].length; i++){
+                //pierwszy element serii
                 context.fillStyle=kolory[i];
                 context.fillText(dane_wykresu.etykiety[i],pad+i*seriepad,canvas.height-5,wid+pad2);
                 context.beginPath();
                 context.moveTo(pad+i*seriepad,(canvas.height - 30));
                 context.lineTo(pad+wid+i*seriepad,(canvas.height - 30));
-                context.lineTo(pad+wid+i*seriepad,((canvas.height - 30)*1.1 - (canvas.height - 30) * (dane_wykresu.serie[0][i]/maxvalue)) + (((canvas.height - 30)-((canvas.height - 30)*1.1 - (canvas.height - 30) * (dane_wykresu.serie[0][i]/maxvalue)))*(1-stan)));
-                context.lineTo(pad+i*seriepad,((canvas.height - 30)*1.1 - (canvas.height - 30) * (dane_wykresu.serie[0][i]/maxvalue)) + (((canvas.height - 30)-((canvas.height - 30)*1.1 - (canvas.height - 30) * (dane_wykresu.serie[0][i]/maxvalue)))*(1-stan)));
+                context.lineTo(pad+wid+i*seriepad,((canvas.height - 30) - 0.9 * (canvas.height - 30) * (dane_wykresu.serie[0][i]/maxvalue)) + 0.9 * (((canvas.height - 30)-((canvas.height - 30) - (canvas.height - 30) * (dane_wykresu.serie[0][i]/maxvalue)))*(1-stan)));
+                context.lineTo(pad+i*seriepad,((canvas.height - 30) - 0.9 * (canvas.height - 30) * (dane_wykresu.serie[0][i]/maxvalue)) + 0.9 * (((canvas.height - 30)-((canvas.height - 30) - (canvas.height - 30) * (dane_wykresu.serie[0][i]/maxvalue)))*(1-stan)));
                 context.fill();
 
+                //drugi element serii
                 context.beginPath();
                 context.moveTo(pad2+wid+i*seriepad,(canvas.height - 30));
                 context.lineTo(pad2+2*wid+i*seriepad,(canvas.height - 30));
-                context.lineTo(pad2+2*wid+i*seriepad,((canvas.height - 30)*1.1 - (canvas.height - 30) * (dane_wykresu.serie[1][i]/maxvalue)) + (((canvas.height - 30)-((canvas.height - 30)*1.1 - (canvas.height - 30) * (dane_wykresu.serie[1][i]/maxvalue)))*(1-stan)));
-                context.lineTo(pad2+wid+i*seriepad,((canvas.height - 30)*1.1 - (canvas.height - 30) * (dane_wykresu.serie[1][i]/maxvalue)) + (((canvas.height - 30)-((canvas.height - 30)*1.1 - (canvas.height - 30) * (dane_wykresu.serie[1][i]/maxvalue)))*(1-stan)));
+                context.lineTo(pad2+2*wid+i*seriepad,((canvas.height - 30) - 0.9 * (canvas.height - 30) * (dane_wykresu.serie[1][i]/maxvalue)) + 0.9 * (((canvas.height - 30)-((canvas.height - 30) - (canvas.height - 30) * (dane_wykresu.serie[1][i]/maxvalue)))*(1-stan)));
+                context.lineTo(pad2+wid+i*seriepad,((canvas.height - 30) - 0.9 * (canvas.height - 30) * (dane_wykresu.serie[1][i]/maxvalue)) + 0.9 * (((canvas.height - 30)-((canvas.height - 30) - (canvas.height - 30) * (dane_wykresu.serie[1][i]/maxvalue)))*(1-stan)));
                 context.fill();
                 
             }
