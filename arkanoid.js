@@ -108,7 +108,7 @@ function canvas(){
             }
 
             // Wyznaczenie przesunięcia piłki (dx, dy)
-            var i = 0;
+            var cn = 0;
             balls.forEach(ball => {
                 var dx = ball.vx * time_interval / 1000; //1000 – time_interval - [ms]
                 var dy = ball.vy * time_interval / 1000;
@@ -135,7 +135,7 @@ function canvas(){
                         ball.vx = ball.vx - 4*(plate_center - ball.x); //zmiana kąta odbicia
                         ball.vy = -ball.vy; //odbicie po osi OY
                     }else{
-                        balls.splice(i,1);
+                        balls.splice(cn,1);
                         if (balls.length <1){
                             drawGameOver = true; //koniec gry
                         }
@@ -148,11 +148,6 @@ function canvas(){
                          //wyznaczenie położenia każdej cegły
                          var brick_coords = {x: (i*(brick.width+2)), y: (j*(brick.height+2))};
                         
-                         context.save();
-                         context.beginPath();
-                         context.arc(brick_coords.x, brick_coords.y, 10,0,2*Math.PI);
-                         context.stroke();
-                         context.restore();
                          //sprawdzenie warunków kolizji
                          if (brick_coords.x < ball.x+ball.r-2 && ball.x-ball.r-2 < brick_coords.x+brick.width && brick_coords.y < ball.y+ball.r-2 && ball.y-ball.r-2 < brick_coords.y+brick.height){    
                              ball.vy = -ball.vy;
@@ -190,7 +185,7 @@ function canvas(){
                      }
                  }
              }
-            i++;});
+            cn++;});
 
             context.clearRect(0,0,500,500);
             context.save();
