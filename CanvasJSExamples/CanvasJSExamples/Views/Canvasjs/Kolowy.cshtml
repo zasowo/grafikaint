@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Wykres kołowy</h2>
+
+<!-- Sekcja do generowania wykresu -->
+<script>
+	window.onload = function () {
+
+	var chart = new CanvasJS.Chart("chartContainer", {
+		animationEnabled: true,
+		title: {
+			text: "Wykres kołowy"
+		},
+		data: [{
+			type: "pie",
+			startAngle: 240,
+			yValueFormatString: "##0.00\"%\"",
+			indexLabel: "{label} {y}",
+			dataPoints: @Html.Raw(ViewBag.PieData)
+		}]
+	});
+	chart.render();
+}
+</script>
+
+<div id="chartContainer" style="height: 370px; width: 100%;"></div>
+

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEA4D9-CEBB-4BEA-A96F-34F5432E0136}|CanvasJSExamples\\CanvasJSExamples.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\canvasjsexamples\\canvasjsexamples\\controllers\\canvasjscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BEA4D9-CEBB-4BEA-A96F-34F5432E0136}|CanvasJSExamples\\CanvasJSExamples.csproj|solutionrelative:canvasjsexamples\\controllers\\canvasjscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEA4D9-CEBB-4BEA-A96F-34F5432E0136}|CanvasJSExamples\\CanvasJSExamples.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\canvasjsexamples\\canvasjsexamples\\views\\canvasjs\\kolowy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27BEA4D9-CEBB-4BEA-A96F-34F5432E0136}|CanvasJSExamples\\CanvasJSExamples.csproj|solutionrelative:canvasjsexamples\\views\\canvasjs\\kolowy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEA4D9-CEBB-4BEA-A96F-34F5432E0136}|CanvasJSExamples\\CanvasJSExamples.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\canvasjsexamples\\canvasjsexamples\\views\\canvasjs\\kombinowany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27BEA4D9-CEBB-4BEA-A96F-34F5432E0136}|CanvasJSExamples\\CanvasJSExamples.csproj|solutionrelative:canvasjsexamples\\views\\canvasjs\\kombinowany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEA4D9-CEBB-4BEA-A96F-34F5432E0136}|CanvasJSExamples\\CanvasJSExamples.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\canvasjsexamples\\canvasjsexamples\\models\\labeldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BEA4D9-CEBB-4BEA-A96F-34F5432E0136}|CanvasJSExamples\\CanvasJSExamples.csproj|solutionrelative:canvasjsexamples\\models\\labeldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEA4D9-CEBB-4BEA-A96F-34F5432E0136}|CanvasJSExamples\\CanvasJSExamples.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\canvasjsexamples\\canvasjsexamples\\models\\datapoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BEA4D9-CEBB-4BEA-A96F-34F5432E0136}|CanvasJSExamples\\CanvasJSExamples.csproj|solutionrelative:canvasjsexamples\\models\\datapoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEA4D9-CEBB-4BEA-A96F-34F5432E0136}|CanvasJSExamples\\CanvasJSExamples.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\canvasjsexamples\\canvasjsexamples\\views\\canvasjs\\slupkowy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27BEA4D9-CEBB-4BEA-A96F-34F5432E0136}|CanvasJSExamples\\CanvasJSExamples.csproj|solutionrelative:canvasjsexamples\\views\\canvasjs\\slupkowy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEA4D9-CEBB-4BEA-A96F-34F5432E0136}|CanvasJSExamples\\CanvasJSExamples.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\canvasjsexamples\\canvasjsexamples\\views\\canvasjs\\funkcja2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27BEA4D9-CEBB-4BEA-A96F-34F5432E0136}|CanvasJSExamples\\CanvasJSExamples.csproj|solutionrelative:canvasjsexamples\\views\\canvasjs\\funkcja2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BEA4D9-CEBB-4BEA-A96F-34F5432E0136}|CanvasJSExamples\\CanvasJSExamples.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\canvasjsexamples\\canvasjsexamples\\models\\datedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BEA4D9-CEBB-4BEA-A96F-34F5432E0136}|CanvasJSExamples\\CanvasJSExamples.csproj|solutionrelative:canvasjsexamples\\models\\datedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DateData.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\CanvasJSExamples\\Models\\DateData.cs",
+              "RelativeDocumentMoniker": "CanvasJSExamples\\Models\\DateData.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\CanvasJSExamples\\Models\\DateData.cs",
+              "RelativeToolTip": "CanvasJSExamples\\Models\\DateData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:06:25.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabelData.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\CanvasJSExamples\\Models\\LabelData.cs",
+              "RelativeDocumentMoniker": "CanvasJSExamples\\Models\\LabelData.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\CanvasJSExamples\\Models\\LabelData.cs",
+              "RelativeToolTip": "CanvasJSExamples\\Models\\LabelData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:11:30.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\CanvasJSExamples\\Models\\DataPoint.cs",
+              "RelativeDocumentMoniker": "CanvasJSExamples\\Models\\DataPoint.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\CanvasJSExamples\\Models\\DataPoint.cs",
+              "RelativeToolTip": "CanvasJSExamples\\Models\\DataPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:10:22.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CanvasjsController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\CanvasJSExamples\\Controllers\\CanvasjsController.cs",
+              "RelativeDocumentMoniker": "CanvasJSExamples\\Controllers\\CanvasjsController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\CanvasJSExamples\\Controllers\\CanvasjsController.cs",
+              "RelativeToolTip": "CanvasJSExamples\\Controllers\\CanvasjsController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAiwJEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:03:55.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Funkcja2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\CanvasJSExamples\\Views\\Canvasjs\\Funkcja2.cshtml",
+              "RelativeDocumentMoniker": "CanvasJSExamples\\Views\\Canvasjs\\Funkcja2.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\CanvasJSExamples\\Views\\Canvasjs\\Funkcja2.cshtml",
+              "RelativeToolTip": "CanvasJSExamples\\Views\\Canvasjs\\Funkcja2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T18:03:50.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Slupkowy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\CanvasJSExamples\\Views\\Canvasjs\\Slupkowy.cshtml",
+              "RelativeDocumentMoniker": "CanvasJSExamples\\Views\\Canvasjs\\Slupkowy.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\CanvasJSExamples\\Views\\Canvasjs\\Slupkowy.cshtml",
+              "RelativeToolTip": "CanvasJSExamples\\Views\\Canvasjs\\Slupkowy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T18:03:49.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kombinowany.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\CanvasJSExamples\\Views\\Canvasjs\\Kombinowany.cshtml",
+              "RelativeDocumentMoniker": "CanvasJSExamples\\Views\\Canvasjs\\Kombinowany.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\CanvasJSExamples\\Views\\Canvasjs\\Kombinowany.cshtml",
+              "RelativeToolTip": "CanvasJSExamples\\Views\\Canvasjs\\Kombinowany.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T18:03:48.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kolowy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\CanvasJSExamples\\Views\\Canvasjs\\Kolowy.cshtml",
+              "RelativeDocumentMoniker": "CanvasJSExamples\\Views\\Canvasjs\\Kolowy.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\CanvasJSExamples\\CanvasJSExamples\\Views\\Canvasjs\\Kolowy.cshtml",
+              "RelativeToolTip": "CanvasJSExamples\\Views\\Canvasjs\\Kolowy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T18:03:47.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -25,6 +25,11 @@ div {
 	float:none;
 }
 
+.chart {
+	width:500px;
+	height:500px;
+}
+
 #masthead {
 width:100%;
 height:160px;

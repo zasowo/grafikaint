@@ -3,8 +3,14 @@
     <head>
         <meta charset="UTF-8">
         <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" href="jquery.jqplot.min.css"/>
         <title>Canvas</title>
-        
+
+        <link rel="stylesheet" href="https://www.canvasxpress.org/dist/canvasXpress.css"type="text/css"/>
+        <script type="text/javascript"src="https://www.canvasxpress.org/dist/canvasXpress.min.js"></script>
+        <script src='https://cdn.plot.ly/plotly-2.32.0.min.js'></script>
+        <script type="text/javascript" src="wykresy/wykresy.js"></script>
+        <script src="script.js"></script> 
     </head>
 
     <body onload="canvas()">
@@ -55,12 +61,14 @@
                 </div>
             
             <div id="page_content">
-                <h1>Funkcja 1</h1>
-                <canvas id="chart1" width="500px" height="500px"></canvas>
-                <h1>Funkcja 2a</h1>
-                <canvas id="chart2a" width="500px" height="500px"></canvas>
-                <h1>Funkcja 2b</h1>
-                <canvas id="chart2b" width="500px" height="500px"></canvas>
+                <h1>Funkcja 1</h1><br>
+                <canvas id="chart1" width="500px" height="500px"></canvas><br>
+                <h1 style="clear:both">Funkcja 2a</h1><br>
+                <div id="chart2a" class="chart"></div><br>
+                <h1>Funkcja 2b</h1><br>
+                <div id="chart2b" class="chart"></div><br>
+                <h1>Iris</h1><br>
+                <div id="chartiris" class="chart"></div><br>
             </div>
             <!-- -->
             <div id="right_col">
@@ -86,13 +94,6 @@
               </div>	
         </div>
         
-        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-        <script type="text/javascript" src="jqplot/jquery.jqplot.js"></script>
-        <script type="text/javascript" src="jqplot/plugins/jqplot.highlighter.js"></script>
-        <script type="text/javascript" src="jqplot/plugins/jqplot.canvasTextRenderer.js"></script>
-        <script type="text/javascript" src="jqplot/plugins/jqplot.canvasAxisLabelRenderer.js"></script>
-        <link rel="stylesheet" type="text/css" href="jqplot/jquery.jqplot.css" />
-        <script type="text/javascript" src="wykresy.js"></script>
-        <script src="script.js"></script>
+
         </body>
         </html>
