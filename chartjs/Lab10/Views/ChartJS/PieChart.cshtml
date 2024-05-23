@@ -1,0 +1,63 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    ViewData["Title"] = "Pie Chart";
+}
+
+<html>
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        #chartDiv {
+            width: 500px;
+            height: 600px;
+            border: solid 1px;
+            padding: 1px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Wykres kołowy</h1>
+    <div id="chartDiv">
+        <canvas id="myChart"></canvas>
+    </div>
+    <script>
+        const DATA_COUNT = 5;
+        const NUMBER_CFG = { count: DATA_COUNT, min: 0, max: 100 };
+
+        const data = {
+            labels: ['Red', 'Orange', 'Yellow', 'Green', 'Blue'],
+            datasets: [
+                {
+                    label: 'Dataset 1',
+                    data: [10,33,20,15,22],
+                    backgroundColor: ['#eb4034', '#e0850d', '#fffb00', '#05ff16', '#020ee6'],
+                }
+            ]
+        };
+
+        const config = {
+            type: 'pie',
+            data: data,
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                    },
+                    title: {
+                        display: true,
+                        text: 'Chart.js Pie Chart'
+                    }
+                }
+            },
+        };
+
+        new Chart(document.getElementById('myChart'), config, data);
+    </script>
+</body>
+</html>

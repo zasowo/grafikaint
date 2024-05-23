@@ -1,38 +1,55 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D400C886-A4A3-4196-8EBB-3060C477834E}|..\\DataChartSources\\DataChartSources.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\datachartsources\\datachartsource2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\chartjs\\lab10\\views\\chartjs\\chartmvcbarchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:views\\chartjs\\chartmvcbarchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D400C886-A4A3-4196-8EBB-3060C477834E}|..\\DataChartSources\\DataChartSources.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\datachartsources\\datachartsource1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\lab10\\views\\chartjs\\funkcja1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:views\\chartjs\\funkcja1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\lab10\\views\\chartjs\\funkcja2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:views\\chartjs\\funkcja2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\lab10\\views\\chartjs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:views\\chartjs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\lab10\\controllers\\chartjscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\chartjs\\lab10\\controllers\\chartjscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:controllers\\chartjscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D400C886-A4A3-4196-8EBB-3060C477834E}|..\\DataChartSources\\DataChartSources.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\datachartsources\\idatachartsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\chartjs\\lab10\\views\\chartjs\\barchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:views\\chartjs\\barchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\lab10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\chartjs\\lab10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\lab10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\chartjs\\lab10\\views\\chartjs\\chartmvcpiechart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:views\\chartjs\\chartmvcpiechart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\chartjs\\lab10\\views\\chartjs\\mixedchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:views\\chartjs\\mixedchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\chartjs\\lab10\\views\\chartjs\\piechart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:views\\chartjs\\piechart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\chartjs\\lab10\\views\\chartjs\\funkcja2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:views\\chartjs\\funkcja2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\chartjs\\lab10\\views\\chartjs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:views\\chartjs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\chartjs\\lab10\\views\\chartjs\\funkcja1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:views\\chartjs\\funkcja1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D400C886-A4A3-4196-8EBB-3060C477834E}|..\\DataChartSources\\DataChartSources.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\chartjs\\datachartsources\\datachartsource2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D400C886-A4A3-4196-8EBB-3060C477834E}|..\\DataChartSources\\DataChartSources.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\chartjs\\datachartsources\\datachartsource1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\administrator\\desktop\\grafika\\grafikaint\\chartjs\\lab10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -51,63 +68,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "ChartMVCPieChart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\ChartJS\\ChartMVCPieChart.cshtml",
+              "RelativeDocumentMoniker": "Views\\ChartJS\\ChartMVCPieChart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\ChartJS\\ChartMVCPieChart.cshtml",
+              "RelativeToolTip": "Views\\ChartJS\\ChartMVCPieChart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T19:41:56.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChartMVCBarChart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\ChartJS\\ChartMVCBarChart.cshtml",
+              "RelativeDocumentMoniker": "Views\\ChartJS\\ChartMVCBarChart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\ChartJS\\ChartMVCBarChart.cshtml",
+              "RelativeToolTip": "Views\\ChartJS\\ChartMVCBarChart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T19:41:43.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MixedChart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\ChartJS\\MixedChart.cshtml",
+              "RelativeDocumentMoniker": "Views\\ChartJS\\MixedChart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\ChartJS\\MixedChart.cshtml",
+              "RelativeToolTip": "Views\\ChartJS\\MixedChart.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T18:54:23.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataChartSource1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\DataChartSources\\DataChartSource1.cs",
+              "RelativeDocumentMoniker": "..\\DataChartSources\\DataChartSource1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\DataChartSources\\DataChartSource1.cs",
+              "RelativeToolTip": "..\\DataChartSources\\DataChartSource1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:48:31.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Funkcja2.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Views\\ChartJS\\Funkcja2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\ChartJS\\Funkcja2.cshtml",
               "RelativeDocumentMoniker": "Views\\ChartJS\\Funkcja2.cshtml",
-              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Views\\ChartJS\\Funkcja2.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\ChartJS\\Funkcja2.cshtml",
               "RelativeToolTip": "Views\\ChartJS\\Funkcja2.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-23T12:15:52.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataChartSource2.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\DataChartSources\\DataChartSource2.cs",
-              "RelativeDocumentMoniker": "..\\DataChartSources\\DataChartSource2.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\DataChartSources\\DataChartSource2.cs",
-              "RelativeToolTip": "..\\DataChartSources\\DataChartSource2.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T11:44:31.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataChartSource1.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\DataChartSources\\DataChartSource1.cs",
-              "RelativeDocumentMoniker": "..\\DataChartSources\\DataChartSource1.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\DataChartSources\\DataChartSource1.cs",
-              "RelativeToolTip": "..\\DataChartSources\\DataChartSource1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T11:32:09.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IDataChartSource.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\DataChartSources\\IDataChartSource.cs",
-              "RelativeDocumentMoniker": "..\\DataChartSources\\IDataChartSource.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\DataChartSources\\IDataChartSource.cs",
-              "RelativeToolTip": "..\\DataChartSources\\IDataChartSource.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T11:26:59.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -116,54 +146,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Funkcja1.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Views\\ChartJS\\Funkcja1.cshtml",
-              "RelativeDocumentMoniker": "Views\\ChartJS\\Funkcja1.cshtml",
-              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Views\\ChartJS\\Funkcja1.cshtml",
-              "RelativeToolTip": "Views\\ChartJS\\Funkcja1.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T11:18:16.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Views\\ChartJS\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\ChartJS\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Views\\ChartJS\\Index.cshtml",
-              "RelativeToolTip": "Views\\ChartJS\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T11:17:35.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ChartJSController.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Controllers\\ChartJSController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Controllers\\ChartJSController.cs",
               "RelativeDocumentMoniker": "Controllers\\ChartJSController.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Controllers\\ChartJSController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Controllers\\ChartJSController.cs",
               "RelativeToolTip": "Controllers\\ChartJSController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCAAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T11:17:11.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T11:13:08.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BarChart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\ChartJS\\BarChart.cshtml",
+              "RelativeDocumentMoniker": "Views\\ChartJS\\BarChart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\ChartJS\\BarChart.cshtml",
+              "RelativeToolTip": "Views\\ChartJS\\BarChart.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAD4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T18:53:31.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataChartSource2.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\DataChartSources\\DataChartSource2.cs",
+              "RelativeDocumentMoniker": "..\\DataChartSources\\DataChartSource2.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\DataChartSources\\DataChartSource2.cs",
+              "RelativeToolTip": "..\\DataChartSources\\DataChartSource2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:48:44.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PieChart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\ChartJS\\PieChart.cshtml",
+              "RelativeDocumentMoniker": "Views\\ChartJS\\PieChart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\ChartJS\\PieChart.cshtml",
+              "RelativeToolTip": "Views\\ChartJS\\PieChart.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwDsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T18:53:45.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Funkcja1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\ChartJS\\Funkcja1.cshtml",
+              "RelativeDocumentMoniker": "Views\\ChartJS\\Funkcja1.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\ChartJS\\Funkcja1.cshtml",
+              "RelativeToolTip": "Views\\ChartJS\\Funkcja1.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:18:16.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\ChartJS\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ChartJS\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\grafika\\grafikaint\\chartjs\\Lab10\\Views\\ChartJS\\Index.cshtml",
+              "RelativeToolTip": "Views\\ChartJS\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:17:35.829Z",
               "EditorCaption": ""
             }
           ]

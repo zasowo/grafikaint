@@ -14,7 +14,7 @@ namespace DataChartSources
             XValues = new List<double>();
 
             double krok = (stop - start)/N;
-            for (double i = -start; i <= stop; i += krok)
+            for (double i = start; i < stop; i += krok)
             {
                 XValues.Add(i);
             }
@@ -23,7 +23,7 @@ namespace DataChartSources
         {
             return Math.Sin(5*x) + Math.Cos(3*x);
         }
-        public List<double> XValues { get; }
+        public List<double> XValues { get; set; }
         public List<double> GetX() { return XValues; }
         public List<double> GetY()
         {
