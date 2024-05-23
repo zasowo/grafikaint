@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\kk\Nowy folder\DataChartSources\bin\Debug\DataChartSources.dll
+C:\Users\Student\Documents\kk\Nowy folder\DataChartSources\bin\Debug\DataChartSources.pdb
+C:\Users\Student\Documents\kk\Nowy folder\DataChartSources\obj\Debug\DataChartSources.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\kk\Nowy folder\DataChartSources\obj\Debug\DataChartSources.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\kk\Nowy folder\DataChartSources\obj\Debug\DataChartSources.dll
+C:\Users\Student\Documents\kk\Nowy folder\DataChartSources\obj\Debug\DataChartSources.pdb
