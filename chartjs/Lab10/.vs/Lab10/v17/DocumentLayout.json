@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D400C886-A4A3-4196-8EBB-3060C477834E}|..\\DataChartSources\\DataChartSources.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\datachartsources\\datachartsource2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D400C886-A4A3-4196-8EBB-3060C477834E}|..\\DataChartSources\\DataChartSources.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\datachartsources\\datachartsource1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\lab10\\views\\chartjs\\funkcja1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:views\\chartjs\\funkcja1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\lab10\\views\\chartjs\\funkcja2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:views\\chartjs\\funkcja2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\lab10\\views\\chartjs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:views\\chartjs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\lab10\\controllers\\chartjscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:controllers\\chartjscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D400C886-A4A3-4196-8EBB-3060C477834E}|..\\DataChartSources\\DataChartSources.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\datachartsources\\idatachartsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\lab10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|c:\\users\\student\\documents\\kk\\nowy folder\\lab10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D0AD6-D0EF-4375-9438-72DA0D24A370}|Lab10.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Funkcja2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Views\\ChartJS\\Funkcja2.cshtml",
+              "RelativeDocumentMoniker": "Views\\ChartJS\\Funkcja2.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Views\\ChartJS\\Funkcja2.cshtml",
+              "RelativeToolTip": "Views\\ChartJS\\Funkcja2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T12:15:52.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataChartSource2.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\DataChartSources\\DataChartSource2.cs",
+              "RelativeDocumentMoniker": "..\\DataChartSources\\DataChartSource2.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\DataChartSources\\DataChartSource2.cs",
+              "RelativeToolTip": "..\\DataChartSources\\DataChartSource2.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:44:31.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataChartSource1.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\DataChartSources\\DataChartSource1.cs",
+              "RelativeDocumentMoniker": "..\\DataChartSources\\DataChartSource1.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\DataChartSources\\DataChartSource1.cs",
+              "RelativeToolTip": "..\\DataChartSources\\DataChartSource1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:32:09.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDataChartSource.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\DataChartSources\\IDataChartSource.cs",
+              "RelativeDocumentMoniker": "..\\DataChartSources\\IDataChartSource.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\DataChartSources\\IDataChartSource.cs",
+              "RelativeToolTip": "..\\DataChartSources\\IDataChartSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:26:59.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:21:07.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funkcja1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Views\\ChartJS\\Funkcja1.cshtml",
+              "RelativeDocumentMoniker": "Views\\ChartJS\\Funkcja1.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Views\\ChartJS\\Funkcja1.cshtml",
+              "RelativeToolTip": "Views\\ChartJS\\Funkcja1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:18:16.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Views\\ChartJS\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ChartJS\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Views\\ChartJS\\Index.cshtml",
+              "RelativeToolTip": "Views\\ChartJS\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:17:35.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChartJSController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Controllers\\ChartJSController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChartJSController.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Controllers\\ChartJSController.cs",
+              "RelativeToolTip": "Controllers\\ChartJSController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:17:11.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\kk\\Nowy folder\\Lab10\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:13:08.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
